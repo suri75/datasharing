@@ -115,7 +115,7 @@ When you put variables into a spreadsheet there are several main categories you 
 1. Categorical
 1. Missing 
 1. Censored
-
+=
 Continuous variables are anything measured on a quantitative scale that could be any fractional number. An example
 would be something like weight measured in kg. [Ordinal data](http://en.wikipedia.org/wiki/Ordinal_data) are data that have a fixed, small (< 100) number of levels but are ordered. 
 This could be for example survey responses where the choices are: poor, fair, good. [Categorical data](http://en.wikipedia.org/wiki/Categorical_variable) are data where there
